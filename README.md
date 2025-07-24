@@ -38,7 +38,7 @@ Se todas as condições forem atendidas, a mensagem exibida será de entrada per
 
 > 💡 Imagem ilustrativa do projeto rodando no navegador.
 
-![Preview do projeto](https://user-images.githubusercontent.com/000000000/preview-ingresso.png)
+![Preview do projeto](PreviewIngresso.png)
 
 ---
 
