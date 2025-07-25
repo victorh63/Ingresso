@@ -6,13 +6,13 @@ Este projeto foi desenvolvido durante o **Curso de Lógica de Programação da A
 
 ## 💡 O que faz?
 
-Neste projeto, o sistema verifica se um ingresso atende às condições corretas para liberar ou não a entrada. As condições são baseadas em:
+Neste projeto, o sistema verifica se um ingresso atende às condições corretas para liberar ou não a "venda". As condições são baseadas em:
 
 - Tipo de ingresso
 - Valor do ingresso
 - Disponibilidade
 
-Se todas as condições forem atendidas, a mensagem exibida será de entrada permitida. Caso contrário, o acesso será negado.
+Se todas as condições forem atendidas, a mensagem exibida será de venda concluída. Caso contrário, a "venda" será negada.
 
 ---
 
