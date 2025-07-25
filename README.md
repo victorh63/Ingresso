@@ -36,20 +36,11 @@ Se todas as condições forem atendidas, a mensagem exibida será de entrada per
 
 ## 📷 Preview
 
-> 💡 Imagem e GIF ilustrativos do projeto rodando no navegador.
+> 💡 GIF ilustrativo do projeto rodando no navegador.
 
-<div style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #111;
-  ">
-   <div style="display: flex; gap: 30px;">
-    <img src="PreviewIngresso.png" width="485" alt="Preview IMG">
-    <img src="GIF_Ingresso.gif" width="515" alt="Preview GIF">
-   </div>
- </div>
+
+<img src="GIF_Ingresso.gif" alt="Preview GIF">
+
 ---
 
 ## 📚 Fonte de estudo
